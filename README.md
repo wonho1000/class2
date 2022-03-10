@@ -1,2 +1,2 @@
 # class2
-test
+#include
